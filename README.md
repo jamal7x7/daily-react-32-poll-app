@@ -15,7 +15,7 @@ Roadmap:
 
 ---
 
-![Alt text](/src/images/daily-react-32-poll-app.png.png?raw=true "App UI")
+![Alt text](/src/images/daily-react-32-poll-app.png?raw=true "App UI")
 
 ---
 
